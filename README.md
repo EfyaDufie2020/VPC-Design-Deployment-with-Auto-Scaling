@@ -90,7 +90,7 @@ A static e-commerce website frontend was deployed using **AWS Amplify**.
 
 ```
 
-![Architecture Diagram](Architecture%20Diagram%20-%20Capstone%201.jpg)
+![Architecture Diagram](ArchitectureDiagram1.jpg)
 
 
 ```
