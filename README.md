@@ -89,7 +89,9 @@ A static e-commerce website frontend was deployed using **AWS Amplify**.
 ## 🔟 Architecture Diagram
 
 ```
-![Architecture Diagram](Architecture Diagram - Capstone 1.jpg)
+
+![Architecture Diagram](Architecture%20Diagram%20-%20Capstone%201.jpg)
+
 
 ```
 ## Key Components Represented in the Architecture Diagram:
